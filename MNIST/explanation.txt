@@ -1,0 +1,1 @@
+Here are the codes that work on MNIST. Pleas note that the .py file with same name has different functions with files in Cifar-10 folder.
